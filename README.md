@@ -1,6 +1,6 @@
 # openDataMarch18
 
-*PUTOAMODELGITHUB
+* PUTOAMODELGITHUB
 
 - Markdown simple
 - _Markdown_
